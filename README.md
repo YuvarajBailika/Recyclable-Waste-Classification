@@ -1,0 +1,1 @@
+CNN-based image classification model using PyTorch to categorize recyclable waste (Plastic, Glass, Metal, Paper) with 94% accuracy. Applied OpenCV for preprocessing and augmentation, and managed the full pipeline from data preparation to model evaluation and visualization.
