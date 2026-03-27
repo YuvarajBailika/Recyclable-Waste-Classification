@@ -1,0 +1,7 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+v5/runs/detect/train2/weights/*.pt filter=lfs diff=lfs merge=lfs -text
+v5/*.pt filter=lfs diff=lfs merge=lfs -text
